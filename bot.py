@@ -3,7 +3,7 @@ from datetime import datetime
 import threading
 import time
 
-TOKEN = '6702286008:AAF9bFv9i8qmz_Ip6iSuC6NNA-5D0Tw2E50'
+TOKEN = '12345'
 bot = telebot.TeleBot(TOKEN)
 
 # Хранение напоминаний
